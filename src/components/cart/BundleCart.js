@@ -29,7 +29,7 @@ export default class BundleCart extends Component {
                                     <button class="snipcart-add-item btn btn-warning"
                                     data-item-id={node.id}
                                     data-item-price={node.price}
-                                    data-item-url="https://www.google.com"
+                                    data-item-url="https://parthlco.netlify.app/"
                                     data-item-image={node.image.fixed.src}
                                     data-item-name={node.title}>
                                     Add to cart
