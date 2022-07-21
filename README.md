@@ -1,4 +1,4 @@
-# ReactJS Sample Website: 
+# codeLearn (E-commerce website for online coding courses) 
 
 ## Check It Out @:
 
